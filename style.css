@@ -6,7 +6,7 @@
 
 .container{
     width: 80vw;
-    height: 1500px;
+    height: 400px;
     background-color: gray;
     position: relative;
     left: 50px;
@@ -49,6 +49,7 @@
 }
 
 .absolute{
+    position: absolute;
     left: 20px;
     top: 20px;
 }
