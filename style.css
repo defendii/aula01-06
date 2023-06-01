@@ -1,0 +1,27 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.static{
+    position: static;
+}
+
+.relative{
+    position: relative;
+    right: 20px;
+    left: -20px;
+}
