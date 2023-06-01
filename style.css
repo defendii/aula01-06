@@ -28,6 +28,10 @@
     background-color: yellow;
 }
 
+.bg-aqua{
+    background-color: aqua;
+}
+
 .static{
     position: static;
 }
@@ -42,4 +46,9 @@
     position: fixed;
     right: 10px;
     bottom: 10px;
+}
+
+.absolute{
+    left: 20px;
+    top: 20px;
 }
