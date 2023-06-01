@@ -6,7 +6,7 @@
 
 .container{
     width: 80vw;
-    height: 400px;
+    height: 1500px;
     background-color: gray;
     position: relative;
     left: 50px;
@@ -32,6 +32,10 @@
     background-color: aqua;
 }
 
+.bg-brown{
+    background-color: brown;
+}
+
 .static{
     position: static;
 }
@@ -52,4 +56,9 @@
     position: absolute;
     left: 20px;
     top: 20px;
+}
+
+.sticky{
+    position: sticky;
+    top: 0px;
 }
