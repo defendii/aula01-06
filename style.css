@@ -4,6 +4,12 @@
     display: inline-block;
 }
 
+.container{
+    width: 80vw;
+    height: 1500px;
+    background-color: gray;
+}
+
 .bg-red{
     background-color: red;
 }
@@ -27,6 +33,7 @@
 }
 
 .fixed{
-    position: fixed
-    left: ;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
 }
